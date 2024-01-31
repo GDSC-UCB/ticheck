@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "775102597089",
+    "project_id": "ticheck",
+    "storage_bucket": "ticheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775102597089:android:ac457581ea02f19170f4a0",
+        "android_client_info": {
+          "package_name": "com.example.ticheckgdscucb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775102597089-no4brfta7avrhjqei4ti660qjvdslfpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticheckgdscucb",
+            "certificate_hash": "f7090809ca98ab14165b3dc0213edcd2a6b37db4"
+          }
+        },
+        {
+          "client_id": "775102597089-5pphb7b5oohuimbj147umu5g9q47eoj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNO0Ik690KFB50r3-rx0Ci9IEpwwREp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775102597089-5pphb7b5oohuimbj147umu5g9q47eoj8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775102597089-srqsvth7lg89n99v574tas39tm4rmt3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ticheckgdscucb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
